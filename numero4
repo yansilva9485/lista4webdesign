@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <body bgcolor="white">
+    <font color="white" face="Arial">
+    <table border="0" cellpadding="5" cellspacing="3">
+    <meta charset="UTF-8">
+    <title>Tabela Periódica</title>
+</head>
+<body>
+
+<table border="0" cellpadding="5" cellspacing="3">
+
+<tr>
+    <td bgcolor="#ff5c8a">H</td>
+    <td colspan="16"></td>
+    <td bgcolor="#ff5c8a">He</td>
+</tr>
+
+<tr>
+    <td bgcolor="#3b82c4">Li</td>
+    <td bgcolor="#49c5d6">Be</td>
+    <td colspan="10"></td>
+    <td bgcolor="#f39c34">B</td>
+    <td bgcolor="#ff5c8a">C</td>
+    <td bgcolor="#ff5c8a">N</td>
+    <td bgcolor="#ff5c8a">O</td>
+    <td bgcolor="#ff5c8a">F</td>
+    <td bgcolor="#ff5c8a">Ne</td>
+</tr>
+
+<tr>
+    <td bgcolor="#3b82c4">Na</td>
+    <td bgcolor="#49c5d6">Mg</td>
+    <td colspan="10"></td>
+    <td bgcolor="#f0c13b">Al</td>
+    <td bgcolor="#ff6b57">Si</td>
+    <td bgcolor="#ff5c8a">P</td>
+    <td bgcolor="#ff5c8a">S</td>
+    <td bgcolor="#ff5c8a">Cl</td>
+    <td bgcolor="#ff5c8a">Ar</td>
+</tr>
+
+<tr>
+    <td bgcolor="#3b82c4">K</td>
+    <td bgcolor="#49c5d6">Ca</td>
+    <td bgcolor="#b7e43a">Sc</td>
+    <td bgcolor="#b7e43a">Ti</td>
+    <td bgcolor="#b7e43a">V</td>
+    <td bgcolor="#b7e43a">Cr</td>
+    <td bgcolor="#b7e43a">Mn</td>
+    <td bgcolor="#b7e43a">Fe</td>
+    <td bgcolor="#b7e43a">Co</td>
+    <td bgcolor="#b7e43a">Ni</td>
+    <td bgcolor="#b7e43a">Cu</td>
+    <td bgcolor="#f0c13b">Zn</td>
+    <td bgcolor="#f0c13b">Ga</td>
+    <td bgcolor="#ff6b57">Ge</td>
+    <td bgcolor="#ff6b57">As</td>
+    <td bgcolor="#ff5c8a">Se</td>
+    <td bgcolor="#d14bbd">Br</td>
+    <td bgcolor="#ff5c8a">Kr</td>
+</tr>
+
+<tr>
+    <td bgcolor="#3b82c4">Rb</td>
+    <td bgcolor="#49c5d6">Sr</td>
+    <td bgcolor="#b7e43a">Y</td>
+    <td bgcolor="#b7e43a">Zr</td>
+    <td bgcolor="#b7e43a">Nb</td>
+    <td bgcolor="#b7e43a">Mo</td>
+    <td bgcolor="#b7e43a">Tc</td>
+    <td bgcolor="#b7e43a">Ru</td>
+    <td bgcolor="#b7e43a">Rh</td>
+    <td bgcolor="#b7e43a">Pd</td>
+    <td bgcolor="#cfd0d2">Ag</td>
+    <td bgcolor="#f0c13b">Cd</td>
+    <td bgcolor="#f0c13b">In</td>
+    <td bgcolor="#f0c13b">Sn</td>
+    <td bgcolor="#ff6b57">Sb</td>
+    <td bgcolor="#ff6b57">Te</td>
+    <td bgcolor="#d14bbd">I</td>
+    <td bgcolor="#ff5c8a">Xe</td>
+</tr>
+
+<tr>
+    <td bgcolor="#3b82c4">Cs</td>
+    <td bgcolor="#49c5d6">Ba</td>
+    <td bgcolor="#7be37b">La</td>
+    <td bgcolor="#b7e43a">Hf</td>
+    <td bgcolor="#b7e43a">Ta</td>
+    <td bgcolor="#b7e43a">W</td>
+    <td bgcolor="#b7e43a">Re</td>
+    <td bgcolor="#b7e43a">Os</td>
+    <td bgcolor="#b7e43a">Ir</td>
+    <td bgcolor="#b7e43a">Pt</td>
+    <td bgcolor="#cfd0d2">Au</td>
+    <td bgcolor="#f0c13b">Hg</td>
+    <td bgcolor="#f0c13b">Tl</td>
+    <td bgcolor="#f0c13b">Pb</td>
+    <td bgcolor="#f0c13b">Bi</td>
+    <td bgcolor="#f0c13b">Po</td>
+    <td bgcolor="#ff6b57">At</td>
+    <td bgcolor="#ff5c8a">Rn</td>
+</tr>
+
+<tr>
+    <td bgcolor="#3b82c4">Fr</td>
+    <td bgcolor="#49c5d6">Ra</td>
+    <td bgcolor="#66d98c">Ac</td>
+    <td bgcolor="#b7e43a">Rf</td>
+    <td bgcolor="#b7e43a">Db</td>
+    <td bgcolor="#b7e43a">Sg</td>
+    <td bgcolor="#b7e43a">Bh</td>
+    <td bgcolor="#808080">Hs</td>
+    <td bgcolor="#808080">Mt</td>
+    <td bgcolor="#808080">Ds</td>
+    <td bgcolor="#808080">Rg</td>
+    <td bgcolor="#f0c13b">Cn</td>
+    <td bgcolor="#808080">Nh</td>
+    <td bgcolor="#808080">Fl</td>
+    <td bgcolor="#808080">Mc</td>
+    <td bgcolor="#808080">Lv</td>
+    <td bgcolor="#808080">Ts</td>
+    <td bgcolor="#808080">Og</td>
+</tr>
+
+<tr>
+    <td colspan="18"></td>
+</tr>
+
+<tr>
+    <td colspan="2"></td>
+    <td bgcolor="#7be37b">Ce</td>
+    <td bgcolor="#7be37b">Pr</td>
+    <td bgcolor="#7be37b">Nd</td>
+    <td bgcolor="#7be37b">Pm</td>
+    <td bgcolor="#7be37b">Sm</td>
+    <td bgcolor="#7be37b">Eu</td>
+    <td bgcolor="#7be37b">Gd</td>
+    <td bgcolor="#7be37b">Tb</td>
+    <td bgcolor="#7be37b">Dy</td>
+    <td bgcolor="#7be37b">Ho</td>
+    <td bgcolor="#7be37b">Er</td>
+    <td bgcolor="#7be37b">Tm</td>
+    <td bgcolor="#7be37b">Yb</td>
+    <td bgcolor="#7be37b">Lu</td>
+</tr>
+
+<tr>
+    <td colspan="2"></td>
+    <td bgcolor="#66d98c">Th</td>
+    <td bgcolor="#66d98c">Pa</td>
+    <td bgcolor="#66d98c">U</td>
+    <td bgcolor="#66d98c">Np</td>
+    <td bgcolor="#66d98c">Pu</td>
+    <td bgcolor="#66d98c">Am</td>
+    <td bgcolor="#66d98c">Cm</td>
+    <td bgcolor="#66d98c">Bk</td>
+    <td bgcolor="#66d98c">Cf</td>
+    <td bgcolor="#66d98c">Es</td>
+    <td bgcolor="#66d98c">Fm</td>
+    <td bgcolor="#66d98c">Md</td>
+    <td bgcolor="#66d98c">No</td>
+    <td bgcolor="#66d98c">Lr</td>
+</tr>
+
+</table>
+
+</body>
+</html>

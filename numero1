@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<title>Horários2</title>
+		<meta charset="UTF-8">
+	</head>	
+	<body>
+		<table border="1px" cellspacing="0" cellpadding="10">
+			<tr>
+				<th></th>
+				<th>Segu</th>
+				<th bgcolor="lightgreen">Terç</th>
+				<th>Quar</th>
+				<th bgcolor="lightgreen">Quin</th>
+				<th bgcolor="#D1AE6F" style="border-top:3px solid red;
+					border-right:3px solid red;
+					border-left:3px solid red">Sext</th>
+				<th>Saba</th>
+				<th>Domi</th>
+			</tr>
+
+			<tr>
+				<th>Primeiro Horario</th>
+					<td>Ingles</td>
+					<td bgcolor="lightgreen"></td>
+					<td></td>
+					<td bgcolor="lightgreen">Espanhol</td>
+					<td bgcolor="#D1AE6F" style="border-left:3px solid red;
+					border-right:3px solid red">Frances</td>
+					<td></td>
+					<td></td>
+			</tr>
+			
+			<tr>
+				<th>Segundo Horario</th>
+					<td>Ingles</td>
+					<td bgcolor="lightgreen">Ingles</td>
+					<td></td>
+					<td bgcolor="lightgreen">Espanhol</td>
+					<td bgcolor="#D1AE6F" style="border-left:3px solid red;
+					border-right:3px solid red">Frances</td>
+					<td></td>
+					<td></td>
+			</tr>
+
+			<tr>
+				<th>Terceiro horario</th>
+				<td></td>
+				<td bgcolor="lightgreen">Espanhol</td>
+				<td></td>
+				<td bgcolor="lightgreen">Espanhol</td>
+				<td bgcolor="#D1AE6F" style="border-left: 3px solid red;
+				border-right: 3px solid red;">Frances</td>
+				<td></td>
+				<td></td>
+			</tr>
+
+			<tr>
+				<th>Quarto horario</th>
+				<td></td>
+				<td bgcolor="lightgreen">Ingles</td>
+				<td></td>
+				<td bgcolor="lightgreen">Ingles</td>
+				<td bgcolor="#D1AE6F" style="border-left:3px solid red;
+				border-right:3px solid red; border-bottom:3px solid red"
+				>Frances</td>
+				<td></td>
+				<td></td>
+				</tr>
+		</table>
+</body>
+</html>
